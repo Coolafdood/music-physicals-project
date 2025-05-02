@@ -1,3 +1,22 @@
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    }
+    
+    nav a {
+    text-decoration: none;
+    display: block;
+    padding: 15px 25px;
+    text-align: center;
+    background-color: rgb(189, 185, 185);
+    color: #464141;
+    }
+    
+    nav a:hover {
+    background-color: #777777;
+    color: #ffffff;
+    }
+
 /* Basic styles for the music-physicals-project */
 .custom-container {
     max-width: 100%;
@@ -53,3 +72,62 @@ li {
     padding: 20px;
 }
 /* Removed invalid JavaScript code */
+/* Removed SCSS variables as they are not valid in plain CSS */
+.carousel-control {
+    color: white;
+    width: 15%;
+    opacity: 0.5;
+    transition: opacity 0.15s ease;
+}
+
+.carousel-control:hover {
+    opacity: 0.9;
+}
+
+.carousel-indicator {
+    width: 10px;
+    height: 3px;
+    margin-bottom: 1px;
+    opacity: 0.5;
+    background-color: white;
+    transition: opacity 0.6s ease;
+}
+
+.carousel-indicator.active {
+    opacity: 1;
+}
+
+.carousel-caption {
+    width: 70%;
+    color: white;
+    padding: 1.25rem;
+    margin-bottom: 1.25rem;
+}
+
+.carousel-control-icon {
+    width: 2rem;
+}
+
+.carousel-width {
+    width: 50%;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+carousel-height {
+    height: 50vh;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+.ex-background-size {
+    width: 100%;
+    height: 200px;
+    background: #000 url no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .bp-top {
+    background-position: top center;
+  }
+  .bp-bottom {
+    background-position: bottom center;
+  }
