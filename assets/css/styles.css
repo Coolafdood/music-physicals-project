@@ -1,3 +1,4 @@
+
 nav {
     display: flex;
     flex-wrap: wrap;
@@ -29,6 +30,7 @@ body, h1, h2, h3, p, ul, ol, li, a {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+   
 }
 
 /* General body styling */
@@ -36,7 +38,7 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: #333;
-    background-color: #f9f9f9;
+    background-color: blueviolet;
     padding: 20px;
 }
 
@@ -108,16 +110,46 @@ li {
     width: 2rem;
 }
 
-.carousel-width {
+.carousel-wrapper {
     width: 50%;
-    margin: 0 auto;
-    padding: 0 1rem;
-}
-carousel-height {
     height: 50vh;
     margin: 0 auto;
-    padding: 0 1rem;
-}
+    padding: 1rem;
+  }
+  .carousel-wrapper {
+    width: 50%;
+    height: 50vh;
+    margin: 2rem auto;
+    padding: 1rem;
+  }
+  
+  /* Center image vertically and horizontally */
+  .carousel-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .carousel-item img {
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 5px;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .carousel-wrapper {
+      width: 90%;
+      height: auto;
+    }
+  
+    .carousel-item img {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+  
 .ex-background-size {
     width: 100%;
     height: 200px;
