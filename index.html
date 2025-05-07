@@ -3,7 +3,8 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Music Physicals</title>
+        <title> Physicals Limited</title>
+
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.6.0/css/fontawesome.min.css" integrity="sha384-NvKbDTEnL+A8F/AA5Tc5kmMLSJHUO868P+lDtTpJIeQdGYaUIuLr4lVGOEA1OcMy" crossorigin="anonymous">
    
@@ -17,7 +18,7 @@
    
 <header>
   
-      <body class="d-flex flex-column min-vh-100">
+      
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
@@ -31,7 +32,7 @@
                           <a class="nav-link active" aria-current="page" href="#">Home</a>
                         </li>
                         <li class="nav-item">
-                          <a class="nav-link" href="#aboutus"> About us</a>
+                          <a class="nav-link" href="aboutus.html"> About us</a>
                         </li>
                         <li class="nav-item">
                           <a class="nav-link" href="#shipping"> Shipping</a>
@@ -41,49 +42,91 @@
                         </li>
                        
                       </header>
-
-                      <div class="container text-center">
-                        <div class="row">
-                          <div class="col-4">Vinyl</div>
-                          <p> There are many variaitons of the size we distribute, 7", 10", 12" and housed in different ways, a sleeve, a tenfold</p>
-                          <div class="col-4">Cassettes </div>
-                          <p> Cassettes can come in different houses whether it be paper or plastic</p>
-                          <div class="col-4">CDs </div>
-                          <p> CDs are the most common form of music distribution, they come in a jewel case or a digipack</p>
-                        </div>
-                      </div>
-                      
-                      
-                      <div class="carousel-wrapper">
-                        <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
-                        <div class="carousel-inner">
-                          <div class="carousel-item active">
-                            <img src="assets/css/images/1024W_F_736138377_HmOSP7lj7jLsPm4uBXrezR2moS1qeSIa_NW1.jpg" class="d-block w-100" alt="cassette" Cassette  style="max-width: 200px; max-height: 200px; border-radius: 5px;">
-                          </div>
-                          <div class="carousel-item">
-                            <img src="assets/css/images/stock-photo-old-records-with-smudges-and-scratches-vinyl-record-mockup-collection-2433367195.jpg" class="d-block w-100" alt="vinyl" Vinyl  style="max-width: 200px; max-height: 200px; border-radius: 5px;">
-                          </div>
-                          <div class="carousel-item">
-                            <img src="assets/css/images/1000_F_55709371_k9qHfwhdjw8fJw2xI9F4wGnjrSnbwHsW.jpg" class="d-block w-100" alt="cd" CD style="max-width: 200px; max-height: 200px; border-radius: 5px;">
-                          </div>
-                        </div>
-                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
-                          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                          <span class="visually-hidden">Previous</span>
-                        </button>
-                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
-                          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                          <span class="visually-hidden">Next</span>
-                        </button>
-                      </div>
-                      
-                      
-                 
+    <!-- main element to hold all key sections of the home page. It is not part of the grid structure -->
+    <main>
+     
+      </div>
+      <div class="col-12 text-center">
+        <h2 class="display-6">Services</h2>
+    </div>
+    <div class="col-12 col-md-6 col-xl-3">
+        <div class="card">
+            <img src="assets/css/images/stock-photo-old-records-with-smudges-and-scratches-vinyl-record-mockup-collection-2433367195.jpg" class="card-img-top"
+                alt="Boardwalk games cafe table by a window, stacks of boardgames can be seen on the table" >
+            <div class="card-body">
+                <h3 class="card-title sub-heading-color">Spin a vinyl</h3>
+                <p class="card-text">
+                    Listen to our music whilst looking at the sleeves and its details.
+                </p>
+            </div>
+            <div class="card-footer">
+                <p class="mb-0">7" = £5
+                  10" = £10 
+                  12" = £15</p>
+            </div>
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-12 col-md-6 col-xl-3">
+        <div class="card">
+            <img src="assets/css/images/1000_F_55709371_k9qHfwhdjw8fJw2xI9F4wGnjrSnbwHsW.jpg" class="card-img-top"
+                alt="cds stacked up on one another, variety of casings can be seen" />
+            <div class="card-body">
+                <!-- bootstrap cards come as h5 by default, changed to h3 to fit project heading hierarchy -->
+                <h3 class="card-title sub-heading-color">CD library</h3>
+                <p class="card-text">
+                    Explore our collection of cds, ranging from classic
+                    favorites to the latest releases. add to your collection of cds
+                </p>
+            </div>
+            <div class="card-footer">
+                <p class="mb-0">See prices in store</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-12 col-md-6 col-xl-3">
+        <div class="card">
+            <img src="assets/css/images/1024W_F_736138377_HmOSP7lj7jLsPm4uBXrezR2moS1qeSIa_NW1.jpg" class="card-img-top">
+            <div class="card-body">
+                <h3 class="card-title sub-heading-color">cassettes</h3>
+                <p class="card-text">
+                  Miss the 80s? We have a collection of cassettes for you to enjoy.
+                  <br>
+                </p>
+            </div>
+            <div class="card-footer">
+                <p class="mb-0">From €5 per person</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-12 col-md-6 col-xl-3">
+        <div class="card">
+            <img src="assets/css/images/1000_F_163300267_wcBMHWks2njbb44kHIENPuWi2U4RHAY4.jpg" class="card-img-top"
+                alt="A kids party being held at Boardwalk Games" >
+            <div class="card-body">
+                <h3 class="card-title sub-heading-color">Live music events</h3>
+                <p class="card-text">
+                
+                </p>
+            </div>
+            <div class="card-footer">
+                <p class="mb-0">£10 entry</p>
+            </div>
+        </div>
+    </div>
+  
                   
-                      <i class="fa fa-music" aria-hidden="true"></i>
+                      
+                    </main> 
+                  <!-- Footer / contact section -->
+    <!-- mt-auto added to push footer to the bottom of the page -->
+    
+                  
+                    
                    
 
-                      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.6.0/css/fontawesome.min.css" integrity="sha384-NvKbDTEnL+A8F/AA5Tc5kmMLSJHUO868P+lDtTpJIeQdGYaUIuLr4lVGOEA1OcMy" crossorigin="anonymous">
+                     
                       <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
                   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
