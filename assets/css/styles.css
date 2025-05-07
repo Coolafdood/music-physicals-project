@@ -9,7 +9,7 @@ nav {
     display: block;
     padding: 15px 25px;
     text-align: center;
-    background-color: rgb(189, 185, 185);
+    background-color: rgb(216, 25, 25);
     color: #464141;
     }
     
@@ -18,20 +18,12 @@ nav {
     color: #ffffff;
     }
 
-/* Basic styles for the music-physicals-project */
-.custom-container {
-    max-width: 100%;
-    padding: 0;
-    margin: 0;
-  }
-  
-/* Reset some default browser styles */
-body, h1, h2, h3, p, ul, ol, li, a {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-   
-}
+    .full-height {
+        min-height: 100vh;
+        text-align: center;
+    }
+    
+    
 
 /* General body styling */
 body {
@@ -173,4 +165,4 @@ li {
     justify-content: center;
     align-items: center;
   }
-  
+  @import url('https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.6.0/css/fontawesome.min.css');
