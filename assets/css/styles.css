@@ -37,7 +37,7 @@ body, h1, h2, h3, p, ul, ol, li, a {
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    color: #333;
+    color: blueviolet;
     background-color: blueviolet;
     padding: 20px;
 }
@@ -163,3 +163,14 @@ li {
   .bp-bottom {
     background-position: bottom center;
   }
+  .custom-column {
+    height: 300px;                /* Adjust height as needed */
+    background-color: blueviolet;      
+    padding: 2rem;                /* Spacing inside */
+    font-size: 1.5rem;            /* Larger text */
+    border: 2px solid #aaa;       /* Optional: border for visibility */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
