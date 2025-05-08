@@ -1,5 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
+CSS variables */
+:root {
+    --primary-color: #3498db;
+    --secondary-color: #2ecc71;
+    --accent-color: #e74c3c;
+    --background-color: #ecf0f1;
+    --text-color: #2c3e50;
+    --primary-font: arial, sans-serif;
+    --secondary-font: 'Merriweather', serif;
+    --font-size: 16px;
+}
 
+body{
 
+    background-color: var(--background-color);
+    color: var(--text-color);
+    font-family: var(--primary-font);
+    line-height: 1.6;
+    padding: 20px;
+}
+h1, h2, h3 {
+    font-family: var(--secondary-font);
+    color: var(--primary-color);
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    font-family: Merriweather, serif;
+}
+.container,
+.row {
+    border: 2px solid black;
+}
+
+.col-12 {
+    border: 2px solid white;
+    background-color: lightgray;
+}
 nav {
     display: flex;
     flex-wrap: wrap;
