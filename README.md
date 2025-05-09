@@ -38,7 +38,7 @@ Return users on deals, the site will put eyes on deals as you can push and highl
 - CDs
 - Digital Streaming
 - Live Performances
-- [Any other mediums you cover]
+
 
 
 
