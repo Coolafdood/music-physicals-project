@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
-CSS variables */
+/* CSS variables */
+
+@import url('https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.6.0/css/fontawesome.min.css');
 :root {
     --primary-color: #3498db;
     --secondary-color: #2ecc71;
@@ -51,12 +53,13 @@ nav {
     }
     
     nav a {
+ background-color: rgb(216, 25, 25);
+  display: block;
     text-decoration: none;
-    display: block;
+    
     padding: 15px 25px;
     text-align: center;
-    background-color: rgb(216, 25, 25);
-    color: #464141;
+   
     }
     
     nav a:hover {
@@ -73,17 +76,13 @@ nav {
 
 /* General body styling */
 body {
+    background-color: blueviolet;
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    color: blueviolet;
-    background-color: blueviolet;
-    padding: 20px;
+   padding: 20px;
 }
 
-/* Headings */
-h1, h2, h3 {
-    color: #444;
-}
+
 
 /* Links */
 a {
@@ -110,4 +109,3 @@ li {
 
 
 
-@import url('https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.6.0/css/fontawesome.min.css');
