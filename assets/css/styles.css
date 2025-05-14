@@ -6,21 +6,14 @@
     --primary-color: #3498db;
     --secondary-color: #2ecc71;
     --accent-color: #e74c3c;
-    --background-color: #ecf0f1;
+    --background-color: gray ;
     --text-color: #2c3e50;
     --primary-font: arial, sans-serif;
     --secondary-font: 'Merriweather', serif;
     --font-size: 16px;
 }
 
-body{
 
-    background-color: var(--background-color);
-    color: var(--text-color);
-    font-family: var(--primary-font);
-    line-height: 1.6;
-    padding: 20px;
-}
 h1, h2, h3 {
     font-family: var(--secondary-font);
     color: var(--primary-color);
@@ -76,11 +69,13 @@ nav {
 
 /* General body styling */
 body {
-    background-color: blueviolet;
-    font-family: Arial, sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    font-family: var(--primary-font);
     line-height: 1.6;
-   padding: 20px;
+    padding: 20px;
 }
+
 
 
 
