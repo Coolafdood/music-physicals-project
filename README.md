@@ -9,6 +9,8 @@ Welcome to Music Physicals, where you can indulge in your interests in different
 5. [How to Contribute](#how-to-contribute)
 6. [Contact Information](#contact-information)
 7. [ Licence](#licence)
+![image](https://github.com/user-attachments/assets/b3909a0a-a455-4845-a6f6-839640d9426f)
+
 
 ## Introduction
 As a website designer, my main jobs will be to:
