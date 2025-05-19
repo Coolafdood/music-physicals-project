@@ -3,12 +3,12 @@ Welcome to Music Physicals, where you can indulge in your interests in different
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Features] (#features)
-3. [Supported music mediums] (#supported-music-mediums)
-4. [Getting Started] (#getting-started)
-5. [How to Contribute] (#how-to-contribute)
-6. [Contact Information] (#contact-information)
-7. [ Licence] (#licence)
+2. [Features](#features)
+3. [Supported music mediums](#supported-music-mediums)
+4. [Getting Started](#getting-started)
+5. [How to Contribute](#how-to-contribute)
+6. [Contact Information](#contact-information)
+7. [ Licence](#licence)
 
 ## Introduction
 As a website designer, my main jobs will be to:
