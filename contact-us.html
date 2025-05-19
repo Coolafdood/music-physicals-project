@@ -52,8 +52,36 @@
                   </header>
 <!-- main element to hold all key sections of the home page. It is not part of the grid structure -->
 <main>
- 
-<i class="fas fa-headphones"></i>
+<div class="col-12 col-md-6 col-lg-3 mb-4 d-flex flex-column align-items-center text-center">
+  <h1>Contact Us</h1>
+
+  <!-- Smaller Centered Image -->
+  <img src="assets/css/images/1000024609.jpg" alt="Hero Image" class="img-fluid mb-3" style="max-width: 150px; height: auto;">
+
+  <!-- Icon -->
+  <p><i class="fas fa-headphones me-2"></i>We'd love to hear from you!</p>
+
+  <!-- Centered Form Container -->
+  <form action="/contact" method="POST" class="w-100" style="max-width: 250px;">
+    <div class="mb-2">
+      <label for="name" class="form-label">Name</label>
+      <input type="text" id="name" name="name" class="form-control" required>
+    </div>
+
+    <div class="mb-2">
+      <label for="email" class="form-label">Email</label>
+      <input type="email" id="email" name="email" class="form-control" required>
+    </div>
+
+    <div class="mb-2">
+      <label for="message" class="form-label">Message</label>
+      <textarea id="message" name="message" rows="3" class="form-control" required></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary btn-sm mt-2">Send Message</button>
+  </form>
+</div>
+
 
 
                   
