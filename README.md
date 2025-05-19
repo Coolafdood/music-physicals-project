@@ -51,7 +51,7 @@ Music Physicals is a responsive website built to serve music enthusiasts by show
 
 🕘 Business Hours Display: Clearly shown business hours (9am - 5pm).
 
-🛒 Simple Pricing:
+## Simple Pricing:
 
 Vinyl: £20
 
@@ -71,7 +71,7 @@ Bootstrap 5 (Grid system, responsiveness)
 
 Font Awesome (for icons)
 
-📦 Getting Started
+## Getting Started
 To get a local copy up and running:
 
 bash
@@ -81,7 +81,7 @@ git clone https://github.com/Coolafdood/music-physicals-project.git
 cd music-physicals-project
 Open index.html in your browser to view the site locally.
 
-💡 How to Contribute
+## How to Contribute
 We welcome contributions! You can:
 
 Submit improvements to layout or styling
