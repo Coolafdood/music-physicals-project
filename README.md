@@ -3,12 +3,14 @@ Welcome to Music Physicals, where you can indulge in your interests in different
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Supported music mediums](#supported-music-mediums)
-4. [Getting Started](#getting-started)
-5. [How to Contribute](#how-to-contribute)
-6. [Contact Information](#contact-information)
-7. [ Licence](#licence)
+2. [End user requirements](#End-user-requirements)
+3. [ Website Owner requirements](Website-owner-requirements)
+4. [Features](#features)
+5. [Supported music mediums](#supported-music-mediums)
+6. [Getting Started](#getting-started)
+7. [How to Contribute](#how-to-contribute)
+8. [Contact Information](#contact-information)
+9. [ Licence](#licence)
 
 
 
@@ -31,7 +33,8 @@ As customers, or users it will:
 Make it easier to understand what the site is selling and what it provides with each element described.
 Makes it easier to return, return users will find it easier if the site is functioning and understanding.
 Return users on deals, the site will put eyes on deals as you can push and highlight what you want to show
-
+## End user requirements
+## Website Owner requirements
 
 
 ## Supported Music Mediums
