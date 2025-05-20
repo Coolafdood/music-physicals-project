@@ -3,12 +3,18 @@ Welcome to Music Physicals, where you can indulge in your interests in different
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Features] (#features)
-3. [Supported music mediums] (#supported-music-mediums)
-4. [Getting Started] (#getting-started)
-5. [How to Contribute] (#how-to-contribute)
-6. [Contact Information] (#contact-information)
-7. [ Licence] (#licence)
+2. [Features](#features)
+3. [Supported music mediums](#supported-music-mediums)
+4. [Getting Started](#getting-started)
+5. [How to Contribute](#how-to-contribute)
+6. [Contact Information](#contact-information)
+7. [ Licence](#licence)
+
+
+
+
+![image](https://github.com/user-attachments/assets/b3909a0a-a455-4845-a6f6-839640d9426f)
+
 
 ## Introduction
 As a website designer, my main jobs will be to:
@@ -51,7 +57,7 @@ Music Physicals is a responsive website built to serve music enthusiasts by show
 
 🕘 Business Hours Display: Clearly shown business hours (9am - 5pm).
 
-🛒 Simple Pricing:
+## Simple Pricing:
 
 Vinyl: £20
 
@@ -71,7 +77,7 @@ Bootstrap 5 (Grid system, responsiveness)
 
 Font Awesome (for icons)
 
-📦 Getting Started
+## Getting Started
 To get a local copy up and running:
 
 bash
@@ -81,7 +87,7 @@ git clone https://github.com/Coolafdood/music-physicals-project.git
 cd music-physicals-project
 Open index.html in your browser to view the site locally.
 
-💡 How to Contribute
+## How to Contribute
 We welcome contributions! You can:
 
 Submit improvements to layout or styling
