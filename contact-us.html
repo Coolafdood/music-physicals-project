@@ -52,35 +52,52 @@
                   </header>
 <!-- main element to hold all key sections of the home page. It is not part of the grid structure -->
 <main>
-<div class="col-12 col-md-6 col-lg-3 mb-4 d-flex flex-column align-items-center text-center">
-  <h1>Contact Us</h1>
 
-  <!-- Smaller Centered Image -->
-  <img src="assets/css/images/1000024609.jpg" alt="Hero Image" class="img-fluid mb-3" style="max-width: 150px; height: auto;">
+<main>
+  <div class="container py-4">
+    <div class="row justify-content-center">
+      <!-- Contact Form -->
+      <div class="col-12 col-md-6 col-lg-5 mb-4">
+        <h1 class="text-center">Contact Us</h1>
+        <img src="assets/css/images/1000024609.jpg" alt="Hero Image" class="img-fluid d-block mx-auto mb-3" style="max-width: 150px; height: auto;">
+        <p class="text-center"><i class="fas fa-headphones me-2"></i>We'd love to hear from you!</p>
 
-  <!-- Icon -->
-  <p><i class="fas fa-headphones me-2"></i>We'd love to hear from you!</p>
+        <form action="/contact" method="POST">
+          <div class="mb-2">
+            <label for="name" class="form-label">Name</label>
+            <input type="text" id="name" name="name" class="form-control" required>
+          </div>
 
-  <!-- Centered Form Container -->
-  <form action="/contact" method="POST" class="w-100" style="max-width: 250px;">
-    <div class="mb-2">
-      <label for="name" class="form-label">Name</label>
-      <input type="text" id="name" name="name" class="form-control" required>
+          <div class="mb-2">
+            <label for="email" class="form-label">Email</label>
+            <input type="email" id="email" name="email" class="form-control" required>
+          </div>
+
+          <div class="mb-2">
+            <label for="message" class="form-label">Message</label>
+            <textarea id="message" name="message" rows="3" class="form-control" required></textarea>
+          </div>
+
+          <button type="submit" class="btn btn-primary btn-sm mt-2">Send Message</button>
+        </form>
+      </div>
+
+      <!-- Contact Info Box -->
+      <div class="col-12 col-md-6 col-lg-4 mb-4">
+        <div class="card shadow-sm h-100">
+          <div class="card-body">
+            <h5 class="card-title">Other Ways to Reach Us</h5>
+            <p><i class="fas fa-phone me-2"></i><strong>Phone:</strong> +44 123 456 7890</p>
+            <p><i class="fas fa-envelope me-2"></i><strong>Email:</strong> <a href="mailto:info@musicphysicals.com">info@musicphysicals.com</a></p>
+            <hr>
+            <p><strong>Opening Hours:</strong><br>Monday – Friday<br>9:00 AM – 5:00 PM</p>
+          </div>
+        </div>
+      </div>
     </div>
+  </div>
+</main>
 
-    <div class="mb-2">
-      <label for="email" class="form-label">Email</label>
-      <input type="email" id="email" name="email" class="form-control" required>
-    </div>
-
-    <div class="mb-2">
-      <label for="message" class="form-label">Message</label>
-      <textarea id="message" name="message" rows="3" class="form-control" required></textarea>
-    </div>
-
-    <button type="submit" class="btn btn-primary btn-sm mt-2">Send Message</button>
-  </form>
-</div>
 
 
 
