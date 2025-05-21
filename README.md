@@ -11,18 +11,14 @@ Welcome to Music Physicals, where you can indulge in your interests in different
 5. [Supported music mediums](#supported-music-mediums)
 6. [Getting Started](#getting-started)
 7. [How to Contribute](#how-to-contribute)
-<<<<<<< HEAD
 8. [Contact](#contact)
 9. [License](#license)
 
-=======
-8. [Contact Information](#contact-information)
-9. [ Licence](#licence)
 
 
 
 ## Mobile
->>>>>>> 9b19bdbd20b7d16d10457d7640137562b5a4f7e6
+
 ![image](https://github.com/user-attachments/assets/b3909a0a-a455-4845-a6f6-839640d9426f)
 ## Tablet
 
@@ -38,10 +34,7 @@ Make the site work, with coding laid out clearly and functioning.
 Complete each page and section with accuracy and without spelling mistakes.
 Have the layout be simple in order for the understanding to be clear, this makes it easier for those users to want to return.
 
-As a music store owner this will:
-Provide more eyes onto your store, accessible content makes it easier for those to purchase your content.
-Makes it easier to get in contact and find out where you are located. this provides not only a way for a bigger base but puts you on the map.
-Social media platforms make it easier for customers to find out who you are.
+
 
 As customers, or users it will:
 Make it easier to understand what the site is selling and what it provides with each element described.
@@ -49,12 +42,40 @@ Makes it easier to return, return users will find it easier if the site is funct
 Return users on deals, the site will put eyes on deals as you can push and highlight what you want to show
 
 ## End user requirements
+ - As a music enthusiast, I want to browse vinyl, CDs, and cassette collections
+so that I can discover and purchase physical music formats I love.
 
+ - As a returning customer, I want the site to remember my past preferences
+so that I can find similar genres or deals easily.
+
+ - As a first-time visitor, I want to see a clean homepage with visuals of products
+so that I know instantly what the site offers.
+
+-As an international customer, I want a dedicated global enquiry form
+so that I can ask about shipping or product availability in my country.
+
+  As a potential collaborator or artist, I want to contact the team through a specific form
+so that I can pitch ideas or submit music for distribution.
+
+  As a mobile user, I want the website to be responsive and fast-loading
+so that I can shop or explore even on a small screen.
+
+- As a time-sensitive customer, I want to know your business hours clearly
+so that I know when to expect responses or shipping updates.
+
+- As a buyer looking for rare finds...
+...I want to view archived collectibles
+so that I can purchase vintage and limited-edition items.
 ## Website Owner requirements
-<<<<<<< HEAD
-=======
+As a music store owner this will:
+-Provide more eyes onto your store, accessible content makes it easier for those to purchase your content.
+
+-Makes it easier to get in contact and find out where you are located. this provides not only a way for a bigger base but puts you on the map.
+
+-Social media platforms make it easier for customers to find out who you are.
+
 ## Wireframe
->>>>>>> 9b19bdbd20b7d16d10457d7640137562b5a4f7e6
+
 
 ## Supported Music Mediums
 
