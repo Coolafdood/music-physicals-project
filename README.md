@@ -11,24 +11,17 @@ Welcome to Music Physicals, where you can indulge in your interests in different
 5. [Supported music mediums](#supported-music-mediums)
 6. [Getting Started](#getting-started)
 7. [How to Contribute](#how-to-contribute)
-<<<<<<< HEAD
 8. [Contact](#contact)
 9. [License](#license)
 
-=======
-8. [Contact Information](#contact-information)
-9. [ Licence](#licence)
-
-
-
 ## Mobile
->>>>>>> 9b19bdbd20b7d16d10457d7640137562b5a4f7e6
+
 ![image](https://github.com/user-attachments/assets/b3909a0a-a455-4845-a6f6-839640d9426f)
+
 ## Tablet
 
-
-
 ## Laptop
+
 ![image](https://github.com/user-attachments/assets/f59614b4-38f1-4b70-84fb-e84c2caabb8b)
 
 ## Introduction
@@ -51,18 +44,10 @@ Return users on deals, the site will put eyes on deals as you can push and highl
 ## End user requirements
 
 ## Website Owner requirements
-<<<<<<< HEAD
-=======
+
 ## Wireframe
->>>>>>> 9b19bdbd20b7d16d10457d7640137562b5a4f7e6
 
 ## Supported Music Mediums
-
-- Vinyl Records
-- Cassette Tapes
-- CDs
-- Digital Streaming
-- Live Performances
 
 ## About the Project
 
@@ -144,8 +129,13 @@ This project is licensed for public use and modification. Feel free to build upo
 
 Rock band on a stage in a backlights
 By kondrukhov
- <https://as1.ftcdn.net/v2/jpg/01/63/30/02/1000_F_163300267_wcBMHWks2njbb44kHIENPuWi2U4RHAY4.jpg>
 
- Three CD in boxes
-By Tarzhanova
+## Assets/CSS/Images
+
+Rock band on a stage in a backlights  
+By kondrukhov  
+<https://as1.ftcdn.net/v2/jpg/01/63/30/02/1000_F_163300267_wcBMHWks2njbb44kHIENPuWi2U4RHAY4.jpg>
+
+Three CD in boxes  
+By Tarzhanova  
 <https://as2.ftcdn.net/v2/jpg/00/55/70/93/1000_F_55709371_k9qHfwhdjw8fJw2xI9F4wGnjrSnbwHsW.jpg>
