@@ -73,8 +73,9 @@ As a music store owner this will:
 -Social media platforms make it easier for customers to find out who you are.
 
 ## Wireframe
+![Part 1 of Wire frame](https://github.com/user-attachments/assets/22fb1e06-d78e-4431-aaf4-0417eb916bd1)
 
-Music Physicals is a responsive website built to serve music enthusiasts by showcasing and selling physical music media. Whether you're looking for vintage Pink Floyd tapes or brand-new gatefold vinyl releases, this project bridges the gap between nostalgia and modern distribution.
+![image](https://github.com/user-attachments/assets/53cbe8eb-2973-410c-85cc-69395c6366cb)
 
 ## Features
 
