@@ -156,3 +156,10 @@ By Tarzhanova
 
 ## Bugs Fixed
 
+Fixed the shifting size of the carousel, ensure that the resolution size of each image used is the same. 
+
+I have created a favicon.ico file in order to fix the text error when loading up the site, make sure the file is empty and to add a href = "favicon" in the html header.
+
+"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" is the correct html to ensure that all
+
+remove fluid from the container in order to line up the navbar with the collumns.
