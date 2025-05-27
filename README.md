@@ -8,7 +8,7 @@ Welcome to Music Physicals, where you can indulge in your interests in different
 2. [End user requirements](#end-user-requirements)
 3. [Website Owner requirements](#website-owner-requirements)
 4. [Features](#features)
-5. [Features](#features)
+5. [Used_Tools](#used-tools)
 6. [Getting Started](#getting-started)
 7. [How to Contribute](#how-to-contribute)
 8. [Contact](#contact)
@@ -19,6 +19,7 @@ Welcome to Music Physicals, where you can indulge in your interests in different
 ![image](https://github.com/user-attachments/assets/b3909a0a-a455-4845-a6f6-839640d9426f)
 
 ## Tablet
+![image](https://github.com/user-attachments/assets/71c2fcf3-5fcf-4d50-9d06-484136ce07e8)
 
 ## Laptop
 
@@ -92,16 +93,8 @@ As a music store owner this will:
 
 🕘 Business Hours Display: Clearly shown business hours (9am - 5pm).
 
-## Simple Pricing
+## Used Tools
 
-Vinyl: £20
-
-CD: £10
-
-Cassette: £7.50
-
-🖼️ Screenshots
-(Add images here, if desired — e.g., homepage, product page, contact form)
 
 🧱 Built With
 HTML5
@@ -139,7 +132,7 @@ Please fork the repo, make your changes, and open a pull request.
 
 Have questions, feedback, or collaboration ideas?
 
-📧 Email: [Your Email Here]
+📧 Email: chazeldred55@gmail.com
 
 🌐 Website: music-physicals-project GitHub Page
 
@@ -152,8 +145,7 @@ This project is licensed for public use and modification. Feel free to build upo
 
 ## assets/css/images
 
-Rock band on a stage in a backlights
-By kondrukhov
+
 
 ## Assets/CSS/Images
 
