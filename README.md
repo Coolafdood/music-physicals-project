@@ -13,6 +13,7 @@ Welcome to Music Physicals, where you can indulge in your interests in different
 7. [How to Contribute](#how-to-contribute)
 8. [Contact](#contact)
 9. [License](#license)
+10. [Bugs_Fixed](bugs-fixed)
 
 ## Mobile
 
@@ -143,10 +144,6 @@ Have questions, feedback, or collaboration ideas?
 © 2025 Music Physicals
 This project is licensed for public use and modification. Feel free to build upon it, but please credit the original author when redistributing.
 
-## assets/css/images
-
-
-
 ## Assets/CSS/Images
 
 Rock band on a stage in a backlights  
@@ -156,3 +153,6 @@ By kondrukhov
 Three CD in boxes  
 By Tarzhanova  
 <https://as2.ftcdn.net/v2/jpg/00/55/70/93/1000_F_55709371_k9qHfwhdjw8fJw2xI9F4wGnjrSnbwHsW.jpg>
+
+## Bugs Fixed
+
