@@ -14,6 +14,7 @@ Welcome to Music Physicals, where you can indulge in your interests in different
 8. [Contact](#contact)
 9. [License](#license)
 10. [Bugs_Fixed](bugs-fixed)
+11. [User_Cases](user-cases)
 
 ## Mobile
 
@@ -23,8 +24,8 @@ Welcome to Music Physicals, where you can indulge in your interests in different
 ![image](https://github.com/user-attachments/assets/71c2fcf3-5fcf-4d50-9d06-484136ce07e8)
 
 ## Laptop
+![image](https://github.com/user-attachments/assets/0ac0d260-574d-4619-a9fc-f79fd8449cfa)
 
-![image](https://github.com/user-attachments/assets/f59614b4-38f1-4b70-84fb-e84c2caabb8b)
 
 ## Introduction
 
@@ -163,3 +164,26 @@ I have created a favicon.ico file in order to fix the text error when loading up
 "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" is the correct html to ensure that all
 
 remove fluid from the container in order to line up the navbar with the collumns.
+
+## User Cases
+
+### Test case 1 
+To navigate the website and find goods that can be purchased that i am searching for. specifically vinyls
+
+### Expected:
+to find the item in 'product' tab.
+
+### Result 
+Found immedietly a list of good for value items that they was looking for that the homepage said that it offered.
+
+### Test Case 2
+To get in contact with the site to enquire about an item that is not there.
+
+### Expected
+To phone call or email the details provided.
+
+### Result
+Received and email during the times that was shown, was able to communicate what they needed. The item was in reservation. sold the item.
+
+
+
