@@ -7,14 +7,15 @@ Welcome to Music Physicals, where you can indulge in your interests in different
 1. [Introduction](#introduction)
 2. [End user requirements](#end-user-requirements)
 3. [Website Owner requirements](#website-owner-requirements)
-4. [Features](#features)
-5. [Used_Tools](#used-tools)
-6. [Getting Started](#getting-started)
-7. [How to Contribute](#how-to-contribute)
-8. [Contact](#contact)
-9. [License](#license)
-10. [Bugs_Fixed](bugs-fixed)
-11. [User_Cases](user-cases)
+4. [Wireframe](#wireframe)
+5. [Features](#features)
+6. [Used_Tools](#used-tools)
+7. [Getting Started](#getting-started)
+8. [How to Contribute](#how-to-contribute)
+9. [Contact](#contact)
+10. [License](#license)
+11. [Bugs_Fixed](bugs-fixed)
+12. [User_Cases](user-cases)
 
 ## Mobile
 
