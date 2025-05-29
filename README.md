@@ -14,8 +14,8 @@ Welcome to Music Physicals, where you can indulge in your interests in different
 8. [How to Contribute](#how-to-contribute)
 9. [Contact](#contact)
 10. [License](#license)
-11. [Bugs_Fixed](bugs-fixed)
-12. [User_Cases](user-cases)
+11. [Bugs_Fixed](#bugs-fixed)
+12. [User_Cases](#user-cases)
 
 ## Mobile
 
