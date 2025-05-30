@@ -1,8 +1,3 @@
-@media (max-width: 768px) {
-  /* Styles for tablets and smaller screens */
-}
-
-
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
 /* CSS variables */
 
@@ -18,6 +13,10 @@
     --font-size: 16px;
 }
 
+
+@media (max-width: 768px) {
+  /* Styles for tablets and smaller screens */
+}
 
 h1, h2, h3 {
     font-family: var(--secondary-font);
@@ -77,9 +76,6 @@ body {
     padding: 20px;
 }
 
-
-
-
 /* Links */
 a {
     color: #007BFF;
@@ -99,9 +95,3 @@ ul {
 li {
     margin-bottom: 10px;
 }
-
-
-
-
-
-
