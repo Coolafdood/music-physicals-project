@@ -19,7 +19,8 @@ Welcome to Music Physicals, where you can indulge in your interests in different
 
 ## Mobile
 
-![image](https://github.com/user-attachments/assets/b3909a0a-a455-4845-a6f6-839640d9426f)
+![image](https://github.com/user-attachments/assets/b3909a0a-a455-4845-a6f6-839640d9426f) <img width="382" height="590" alt="image" src="https://github.com/user-attachments/assets/5d8dd63b-77c8-4e38-80e2-9a230af6b81c" />
+
 
 ## Tablet
 ![image](https://github.com/user-attachments/assets/71c2fcf3-5fcf-4d50-9d06-484136ce07e8)
