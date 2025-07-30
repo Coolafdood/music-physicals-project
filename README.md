@@ -78,11 +78,25 @@ As a music store owner this will:
 -Social media platforms make it easier for customers to find out who you are.
 
 ## Wireframe
-
+Home / index: laptop wireframe view
 ![Part 1 of Wire frame](https://github.com/user-attachments/assets/22fb1e06-d78e-4431-aaf4-0417eb916bd1)
 
 ![image](https://github.com/user-attachments/assets/53cbe8eb-2973-410c-85cc-69395c6366cb)
+Tablet wireframe view
+<img width="725" height="492" alt="image" src="https://github.com/user-attachments/assets/eae48be1-b5e8-4494-af1e-99b514a0dfb6" />
 
+
+phone wireframe view 
+<img width="302" height="442" alt="image" src="https://github.com/user-attachments/assets/8142cb2a-f091-48f3-9d76-acbc9491bdbf" />
+
+
+Contact us 
+
+
+
+
+
+Product page
 ## Features
 
 🎧 Product Catalogue: Browse a curated collection of vinyls, CDs, and cassette tapes.
