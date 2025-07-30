@@ -91,12 +91,28 @@ phone wireframe view
 
 
 Contact us 
+laptop wireframe view
+<img width="995" height="533" alt="image" src="https://github.com/user-attachments/assets/1cd1c07c-f9e3-4d14-88d4-a322c8c8dd7f" />
 
 
+Tablet wireframe view
+<img width="590" height="361" alt="image" src="https://github.com/user-attachments/assets/e04d47cd-23ea-4023-9ddd-91c5932177d5" />
 
+phone wireframe view 
+<img width="315" height="512" alt="image" src="https://github.com/user-attachments/assets/c6c79d20-fdf7-43ce-8964-1d29c0a6a0b5" />
 
 
 Product page
+
+Laptop wireframe view
+<img width="917" height="490" alt="image" src="https://github.com/user-attachments/assets/4fb412b9-fd3f-4cf9-b21c-83d8a14ed320" />
+
+Tablet wireframe view
+<img width="642" height="478" alt="image" src="https://github.com/user-attachments/assets/8a8ee1eb-de48-4edc-bc9d-2b57d13bc114" />
+
+Phone wireframe view
+<img width="361" height="521" alt="image" src="https://github.com/user-attachments/assets/3b42ab02-d047-4683-b367-3e5fc0f5c371" />
+
 ## Features
 
 🎧 Product Catalogue: Browse a curated collection of vinyls, CDs, and cassette tapes.
