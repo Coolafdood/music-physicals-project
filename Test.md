@@ -21,10 +21,10 @@
 ## Homepage Loads
 clicking on live link page
 <img width="940" height="333" alt="image" src="https://github.com/user-attachments/assets/8a183ed0-c060-4bbb-b3d8-4fac75f5b437" />
-loaded without error
+## loading index page without any error message
 <img width="940" height="464" alt="image" src="https://github.com/user-attachments/assets/d28d9ed0-7d15-4726-8498-1aea103ff143" />
 
-2
+## Navigation
 Contact us from the index page.
 <img width="889" height="363" alt="image" src="https://github.com/user-attachments/assets/31ce878f-65f2-4d39-9686-eab0229a3f4e" />
 Contact page loaded.
