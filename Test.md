@@ -21,14 +21,18 @@
 ## Homepage Loads
 clicking on live link page
 <img width="940" height="333" alt="image" src="https://github.com/user-attachments/assets/8a183ed0-c060-4bbb-b3d8-4fac75f5b437" />
-## loading index page without any error message
+# loading index page without any error message
 <img width="940" height="464" alt="image" src="https://github.com/user-attachments/assets/d28d9ed0-7d15-4726-8498-1aea103ff143" />
 
 ## Navigation
-Contact us from the index page.
+
+# Contact us from the index page.
+
 <img width="889" height="363" alt="image" src="https://github.com/user-attachments/assets/31ce878f-65f2-4d39-9686-eab0229a3f4e" />
-Contact page loaded.
+# Contact page loaded.
+
 <img width="1908" height="860" alt="image" src="https://github.com/user-attachments/assets/5b29fe31-5ef8-45ce-b938-ce68da6e8cb6" />
+
 Product clicked from the the index page.
 <img width="648" height="163" alt="image" src="https://github.com/user-attachments/assets/8ad421ac-c188-4a99-b59b-251434cd89e7" />
 Correct loading product page.
