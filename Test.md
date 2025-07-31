@@ -6,7 +6,7 @@
 |--------|------------------------|--------------------------------------------------------------------------|--------------------------------------------------|-------------|
 | [1](#1)      | **Homepage Loads** | Site loads fully with no errors (check browser console, network tab)    | No console errors, broken links, or 404s         | Y           |
 | [2](#2)     | **Navigation** | Test all navbar links (Home, Contact Us, Product Page, etc.)            | Each link redirects to correct page              | Y            |
-| 3      | **Mobile View**         | Navbar collapses into hamburger; menu expands and links work            | Layout is responsive and interactive             |             |
+| [3](#3)      | **Mobile View**         | Navbar collapses into hamburger; menu expands and links work            | Layout is responsive and interactive             |             |
 | 4      | **Tablet View**         | Check layout and spacing on 768px–1024px screen widths                   | Two-column layout is readable and clean          |             |
 | 5      | **Desktop View**        | Check layout on 1920px+ screen widths                                    | All elements properly spaced and aligned         |             |
 | 6      | **Carousel Functionality** | Use arrow/indicator navigation; ensure autoplay works (if applicable) | Images rotate smoothly, no overlap or cut-off    |             |
@@ -77,8 +77,13 @@
 
 <img width="1885" height="715" alt="image" src="https://github.com/user-attachments/assets/8657979b-3c70-4943-84f3-1ca1eea63a0f" />
 
+## 3
 
+### Burger menu navigation bar unclicked
+<img width="473" height="768" alt="image" src="https://github.com/user-attachments/assets/171c4e46-1746-4e0e-94a7-403f5af12b8d" />
 
-
-
+### Burger menu working as well as the page is able to scroll
+<img width="482" height="772" alt="image" src="https://github.com/user-attachments/assets/2eb74022-35cc-4152-a56a-6f8ef91f4119" />
+## >
+<img width="464" height="780" alt="image" src="https://github.com/user-attachments/assets/82e909f5-9d1e-4e61-b0e9-f1a9eacc14b4" />
 
