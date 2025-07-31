@@ -15,6 +15,9 @@
 11    | **Forms / Buttons**     | Test interactivity: form validation, submit, button clicks                 | Actions work; error/success states appear        |             |
 | 12    | **Responsive CSS**      | Shrink/expand window; check media query breakpoints                        | Layout adapts smoothly across screen sizes       |             |
 | 13   | **Favicon**             | Check browser tab and inspect HTML head for favicon link                   | Favicon loads from correct path 
+
+
+
 Screenshot of tests
 Test 1 results evidence:
 clicking on live link page
@@ -27,8 +30,13 @@ Contact us from the index page.
 <img width="889" height="363" alt="image" src="https://github.com/user-attachments/assets/31ce878f-65f2-4d39-9686-eab0229a3f4e" />
 Contact page loaded.
 <img width="1908" height="860" alt="image" src="https://github.com/user-attachments/assets/5b29fe31-5ef8-45ce-b938-ce68da6e8cb6" />
+Product clicked from the the index page.
+<img width="648" height="163" alt="image" src="https://github.com/user-attachments/assets/8ad421ac-c188-4a99-b59b-251434cd89e7" />
+Correct loading product page.
+<img width="1913" height="882" alt="image" src="https://github.com/user-attachments/assets/abd6c0ca-9e79-4d6e-b1f3-6284b305cc96" />
+Clicking from product page tab back into other tabs
 
-
+<img width="445" height="113" alt="image" src="https://github.com/user-attachments/assets/67a8cf71-7091-4a63-b29d-7a971f5e18a6" />
 
 
 
