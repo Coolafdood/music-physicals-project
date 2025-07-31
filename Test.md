@@ -18,8 +18,7 @@
 
 
 
-Screenshot of tests
- 1
+## Homepage loads
 clicking on live link page
 <img width="940" height="333" alt="image" src="https://github.com/user-attachments/assets/8a183ed0-c060-4bbb-b3d8-4fac75f5b437" />
 loaded without error
