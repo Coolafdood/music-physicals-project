@@ -1,9 +1,11 @@
 ## ✅ Deployed GitHub Pages Website Testing Checklist
+**Yes** =**Y**
+**No** = **N**
 
 | Test # | Test Area              | What to Check on the Live Page                                                    | Expected Outcome                                 | Test Result |
 |--------|------------------------|--------------------------------------------------------------------------|--------------------------------------------------|-------------|
-| [1](#1)      | **Homepage Loads* | Site loads fully with no errors (check browser console, network tab)    | No console errors, broken links, or 404s         | Y           |
-| [2](#2)     | **Navigation* | Test all navbar links (Home, Contact Us, Product Page, etc.)            | Each link redirects to correct page              |             |
+| [1](#1)      | **Homepage Loads** | Site loads fully with no errors (check browser console, network tab)    | No console errors, broken links, or 404s         | Y           |
+| [2](#2)     | **Navigation** | Test all navbar links (Home, Contact Us, Product Page, etc.)            | Each link redirects to correct page              | Y            |
 | 3      | **Mobile View**         | Navbar collapses into hamburger; menu expands and links work            | Layout is responsive and interactive             |             |
 | 4      | **Tablet View**         | Check layout and spacing on 768px–1024px screen widths                   | Two-column layout is readable and clean          |             |
 | 5      | **Desktop View**        | Check layout on 1920px+ screen widths                                    | All elements properly spaced and aligned         |             |
