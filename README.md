@@ -217,5 +217,28 @@ To phone call or email the details provided.
 ### Result
 Received and email during the times that was shown, was able to communicate what they needed. The item was in reservation. sold the item.
 
+Here is the Markdown version of the deployed GitHub Pages testing checklist, ready to paste into your README.md, TESTING.md, or project wiki:
+
+
+---
+
+## ✅ Deployed GitHub Pages Website Testing Checklist
+
+| Test Area             | What to Check on the Live Page                                                    | Expected Outcome                                 |
+|-----------------------|------------------------------------------------------------------------------------|--------------------------------------------------|
+| **Homepage Loads**     | Site loads fully with no errors (check browser console)                           | No broken links, scripts, or 404s                |
+| **Navigation**         | Navbar links work (Home, Contact Us, Product Page)                                | Correct navigation across pages                  |
+| **Mobile View**        | On phone screen, navbar collapses to hamburger and works                          | Responsive and functional                        |
+| **Tablet View**        | Check mid-size screen layout (e.g., iPad, dev tools)                              | Two-column layout looks clean                    |
+| **Desktop View**       | Full-size navigation and layout tested on widescreen                              | Elements aligned and visible                     |
+| **Carousel Functionality** | Carousel images switch correctly via arrows and indicators                    | Smooth transitions and visible content           |
+| **Content Layout**     | Text, cards, and sections load as expected                                        | Consistent with design/intent                    |
+| **Footer Content**     | Footer visible with contact info and social links                                 | Icons render, layout clean                       |
+| **Meta Tags**          | Title and meta description show in browser and link previews                      | Accurate and descriptive                         |
+| **Images**             | All images load with correct alt attributes                                       | No broken or misaligned images                   |
+| **Links**              | External links open in a new tab and work properly                                | Target="_blank", accurate URLs                   |
+| **Forms / Buttons**    | Check if buttons work (e.g., contact, carousel controls)                          | Expected behavior occurs                         |
+| **Responsive CSS**     | Media queries / Bootstrap grid behaves correctly                                  | Layout adapts on all screen sizes                |
+| **Favicon**            | Tab shows custom favicon (favicon.ico present in root)                            | Icon loads correctly                             
 
 
