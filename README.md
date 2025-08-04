@@ -217,9 +217,4 @@ To phone call or email the details provided.
 ### Result
 Received and email during the times that was shown, was able to communicate what they needed. The item was in reservation. sold the item.
 
-Here is the Markdown version of the deployed GitHub Pages testing checklist, ready to paste into your README.md, TESTING.md, or project wiki:
-
-
----
-
 
