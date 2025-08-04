@@ -19,7 +19,7 @@ Welcome to Music Physicals, where you can indulge in your interests in different
 
 ## Mobile
 
-![image](https://github.com/user-attachments/assets/b3909a0a-a455-4845-a6f6-839640d9426f) <img width="382" height="590" alt="image" src="https://github.com/user-attachments/assets/5d8dd63b-77c8-4e38-80e2-9a230af6b81c" />
+<img width="458" height="770" alt="image" src="https://github.com/user-attachments/assets/4d3bb22e-621e-41a7-ada5-b407168355d7" />
 
 
 ## Tablet
@@ -119,18 +119,18 @@ Phone wireframe view
 
 💬 Contact Form: Reach out directly to the team through a responsive contact form.
 
-🌐 Global Shipping: Products are shipped directly to you, anywhere in the world.
+ Global Shipping: Products are shipped directly to you, anywhere in the world.
 
-📲 Mobile-Friendly Design: Built with responsive layouts for all devices.
+Mobile-Friendly Design: Built with responsive layouts for all devices.
 
-📣 Social Links: Connect with us via Instagram, Facebook, and X (formerly Twitter).
+ Social Links: Connect with us via Instagram, Facebook, and X (formerly Twitter).
 
-🕘 Business Hours Display: Clearly shown business hours (9am - 5pm).
+ Business Hours Display: Clearly shown business hours (9am - 5pm).
 
 ## Used Tools
 
 
-🧱 Built With
+ Built With
 HTML5
 
 CSS3
@@ -166,11 +166,11 @@ Please fork the repo, make your changes, and open a pull request.
 
 Have questions, feedback, or collaboration ideas?
 
-📧 Email: chazeldred55@gmail.com
+ Email: chazeldred55@gmail.com
 
-🌐 Website: music-physicals-project GitHub Page
+ Website: music-physicals-project GitHub Page
 
-📱 Instagram, Facebook, X (icons included in footer)
+ Instagram, Facebook, X (icons included in footer)
 
 ## License
 
@@ -189,9 +189,17 @@ By Tarzhanova
 
 ## Bugs Fixed
 
-Fixed the shifting size of the carousel, ensure that the resolution size of each image used is the same. 
+Fixed the shifting size of the carousel, ensure that the resolution size of each image used is the same when using the picture/ saving the picture to the assets. 
+slide 1: <img width="975" height="605" alt="image" src="https://github.com/user-attachments/assets/a4f979ad-17c8-4057-a199-9112dd762e8b" />
+slide 2: <img width="947" height="568" alt="image" src="https://github.com/user-attachments/assets/7c60fe21-6d78-46e5-bf0e-fc20185035e3" />
+slide 3: <img width="942" height="567" alt="image" src="https://github.com/user-attachments/assets/09ba1cc2-c0ea-44b3-ac08-52938fd9aa57" />
 
 I have created a favicon.ico file in order to fix the text error when loading up the site, make sure the file is empty and to add a href = "favicon" in the html header.
+<img width="371" height="166" alt="image" src="https://github.com/user-attachments/assets/32d9584e-8514-4ab6-9b68-57544062d687" /> file looks like
+
+icons should show like this 
+<img width="152" height="60" alt="image" src="https://github.com/user-attachments/assets/69865f60-7297-43e4-8866-2e931a298f73" />
+
 
 "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" is the correct html to ensure that all
 
@@ -216,5 +224,6 @@ To phone call or email the details provided.
 
 ### Result
 Received and email during the times that was shown, was able to communicate what they needed. The item was in reservation. sold the item.
+
 
 
