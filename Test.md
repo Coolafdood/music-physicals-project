@@ -9,8 +9,7 @@
 | [3](#3)      | **Mobile View**         | Navbar collapses into hamburger; menu expands and links work            | Layout is responsive and interactive        | Y
 [4](#4)   | **Content Layout**      | Review all content blocks: hero, cards, sections                         | Matches design specs, spacing consistent         |             |
  [5](#5]     | **Meta Tags**           | Inspect HTML head: `<title>`, `<meta name="description">`                 | Title/description show in browser and previews   |             |
-       |             |
-[6](#6)    | **Forms / Buttons**     | Test interactivity: form validation, submit, button clicks                 | Actions work; error/success states appear        |             |
+ [6](#6)    | **Forms / Buttons**     | Test interactivity: form validation, submit, button clicks                 | Actions work; error/success states appear        |             |
 
 
 
