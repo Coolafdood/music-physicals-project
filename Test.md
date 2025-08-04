@@ -4,19 +4,15 @@
 
 | Test # | Test Area              | What to Check on the Live Page                                                    | Expected Outcome                                 | Test Result |
 |--------|------------------------|--------------------------------------------------------------------------|--------------------------------------------------|-------------|
-| [1](#1)      | **Homepage Loads** | Site loads fully with no errors (check browser console, network tab)    | No console errors, broken links, or 404s         | Y           |
+| [1](#1)      | **Homepage Loads** | Site loads fully with no errors (check browser console, network tab, images)    | No console errors, broken links, or 404s         | Y           |
 | [2](#2)     | **Navigation** | Test all navbar links (Home, Contact Us, Product Page, etc.)            | Each link redirects to correct page              | Y            |
-| [3](#3)      | **Mobile View**         | Navbar collapses into hamburger; menu expands and links work            | Layout is responsive and interactive             |             |
-| 4      | **Tablet View**         | Check layout and spacing on 768px–1024px screen widths                   | Two-column layout is readable and clean          |             |
-| 5      | **Desktop View**        | Check layout on 1920px+ screen widths                                    | All elements properly spaced and aligned         |             |
-| 6      | **Carousel Functionality** | Use arrow/indicator navigation; ensure autoplay works (if applicable) | Images rotate smoothly, no overlap or cut-off    |             |
-| 7      | **Content Layout**      | Review all content blocks: hero, cards, sections                         | Matches design specs, spacing consistent         |             |
-| 8      | **Footer Content**      | Footer loads with all expected text, icons, and links                    | All links functional, icons render without error |             |
-| 9      | **Meta Tags**           | Inspect HTML head: `<title>`, `<meta name="description">`                 | Title/description show in browser and previews   |             |
-| 10     | **Images**              | Verify all images load, are optimized, and have descriptive alt text      | No broken images, SEO-friendly alt text          |             |
-11    | **Forms / Buttons**     | Test interactivity: form validation, submit, button clicks                 | Actions work; error/success states appear        |             |
-| 12    | **Responsive CSS**      | Shrink/expand window; check media query breakpoints                        | Layout adapts smoothly across screen sizes       |             |
-| 13   | **Favicon**             | Check browser tab and inspect HTML head for favicon link                   | Favicon loads from correct path 
+| [3](#3)      | **Mobile View**         | Navbar collapses into hamburger; menu expands and links work            | Layout is responsive and interactive        | Y
+           |
+[4](#4)   | **Content Layout**      | Review all content blocks: hero, cards, sections                         | Matches design specs, spacing consistent         |             |
+ [5](#5]     | **Meta Tags**           | Inspect HTML head: `<title>`, `<meta name="description">`                 | Title/description show in browser and previews   |             |
+       |             |
+[6](#6)    | **Forms / Buttons**     | Test interactivity: form validation, submit, button clicks                 | Actions work; error/success states appear        |             |
+
 
 
 ## 1
@@ -86,4 +82,23 @@
 <img width="482" height="772" alt="image" src="https://github.com/user-attachments/assets/2eb74022-35cc-4152-a56a-6f8ef91f4119" />
 ## >
 <img width="464" height="780" alt="image" src="https://github.com/user-attachments/assets/82e909f5-9d1e-4e61-b0e9-f1a9eacc14b4" />
+
+## 4 
+
+### Index layout and colour scheme and layout works together
+<img width="1891" height="868" alt="image" src="https://github.com/user-attachments/assets/2577be1f-7ecb-4a71-abe9-f6e7f37455b0" />
+<img width="1889" height="854" alt="image" src="https://github.com/user-attachments/assets/92834ce7-6328-49a6-8e6c-6f46bc77db80" />
+
+### Contact us layout colour scheme and layout works
+<img width="1882" height="860" alt="image" src="https://github.com/user-attachments/assets/97132769-b3f5-469f-9780-cd15bb8d9c71" />
+<img width="1882" height="860" alt="image" src="https://github.com/user-attachments/assets/9e1bbca3-4fc9-414b-a1a2-fa6472ca1548" />
+
+### Product page 
+<img width="1895" height="846" alt="image" src="https://github.com/user-attachments/assets/d054df17-e1ba-4ea0-af01-3608c8d7a5e7" />
+<img width="1876" height="852" alt="image" src="https://github.com/user-attachments/assets/45e7fe2a-6370-4f9f-845b-f95202290dc0" />
+
+## 5
+
+
+
 
