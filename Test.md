@@ -97,7 +97,19 @@
 <img width="1876" height="852" alt="image" src="https://github.com/user-attachments/assets/45e7fe2a-6370-4f9f-845b-f95202290dc0" />
 
 ## 5
+Tab meta of each page match their Navbar title:
+Product page tab: <img width="301" height="43" alt="image" src="https://github.com/user-attachments/assets/670dfee1-4ba1-4e91-8ec0-6b7343debee6" />
+Contact us tab : <img width="293" height="51" alt="image" src="https://github.com/user-attachments/assets/e5da3176-1095-4982-9baa-ed77c4c43673" />
+Home tab : <img width="322" height="37" alt="image" src="https://github.com/user-attachments/assets/cf0dbfd1-8f90-4eb8-8509-06767b607cc8" />
 
+## 6
 
+form button works 
+<img width="791" height="426" alt="image" src="https://github.com/user-attachments/assets/91a44033-951f-4db7-8ec8-91b1c0c8cb7b" />
 
+result of clicking button:
+<img width="1902" height="880" alt="image" src="https://github.com/user-attachments/assets/b6727e4a-e337-4e55-b231-f513e6d43da0" />
+
+result of clicking return button 
+<img width="1862" height="837" alt="image" src="https://github.com/user-attachments/assets/afc05606-259e-4412-bd98-8b8cdaaf9a16" />
 
