@@ -19,7 +19,7 @@ Welcome to Music Physicals, where you can indulge in your interests in different
 
 ## Mobile
 
-![image](https://github.com/user-attachments/assets/b3909a0a-a455-4845-a6f6-839640d9426f) <img width="382" height="590" alt="image" src="https://github.com/user-attachments/assets/5d8dd63b-77c8-4e38-80e2-9a230af6b81c" />
+<img width="458" height="770" alt="image" src="https://github.com/user-attachments/assets/4d3bb22e-621e-41a7-ada5-b407168355d7" />
 
 
 ## Tablet
@@ -78,10 +78,40 @@ As a music store owner this will:
 -Social media platforms make it easier for customers to find out who you are.
 
 ## Wireframe
-
+Home / index: laptop wireframe view
 ![Part 1 of Wire frame](https://github.com/user-attachments/assets/22fb1e06-d78e-4431-aaf4-0417eb916bd1)
 
 ![image](https://github.com/user-attachments/assets/53cbe8eb-2973-410c-85cc-69395c6366cb)
+Tablet wireframe view
+<img width="725" height="492" alt="image" src="https://github.com/user-attachments/assets/eae48be1-b5e8-4494-af1e-99b514a0dfb6" />
+
+
+phone wireframe view 
+<img width="302" height="442" alt="image" src="https://github.com/user-attachments/assets/8142cb2a-f091-48f3-9d76-acbc9491bdbf" />
+
+
+Contact us 
+laptop wireframe view
+<img width="995" height="533" alt="image" src="https://github.com/user-attachments/assets/1cd1c07c-f9e3-4d14-88d4-a322c8c8dd7f" />
+
+
+Tablet wireframe view
+<img width="590" height="361" alt="image" src="https://github.com/user-attachments/assets/e04d47cd-23ea-4023-9ddd-91c5932177d5" />
+
+phone wireframe view 
+<img width="315" height="512" alt="image" src="https://github.com/user-attachments/assets/c6c79d20-fdf7-43ce-8964-1d29c0a6a0b5" />
+
+
+Product page
+
+Laptop wireframe view
+<img width="917" height="490" alt="image" src="https://github.com/user-attachments/assets/4fb412b9-fd3f-4cf9-b21c-83d8a14ed320" />
+
+Tablet wireframe view
+<img width="642" height="478" alt="image" src="https://github.com/user-attachments/assets/8a8ee1eb-de48-4edc-bc9d-2b57d13bc114" />
+
+Phone wireframe view
+<img width="361" height="521" alt="image" src="https://github.com/user-attachments/assets/3b42ab02-d047-4683-b367-3e5fc0f5c371" />
 
 ## Features
 
@@ -89,18 +119,18 @@ As a music store owner this will:
 
 💬 Contact Form: Reach out directly to the team through a responsive contact form.
 
-🌐 Global Shipping: Products are shipped directly to you, anywhere in the world.
+ Global Shipping: Products are shipped directly to you, anywhere in the world.
 
-📲 Mobile-Friendly Design: Built with responsive layouts for all devices.
+Mobile-Friendly Design: Built with responsive layouts for all devices.
 
-📣 Social Links: Connect with us via Instagram, Facebook, and X (formerly Twitter).
+ Social Links: Connect with us via Instagram, Facebook, and X (formerly Twitter).
 
-🕘 Business Hours Display: Clearly shown business hours (9am - 5pm).
+ Business Hours Display: Clearly shown business hours (9am - 5pm).
 
 ## Used Tools
 
 
-🧱 Built With
+ Built With
 HTML5
 
 CSS3
@@ -136,11 +166,11 @@ Please fork the repo, make your changes, and open a pull request.
 
 Have questions, feedback, or collaboration ideas?
 
-📧 Email: chazeldred55@gmail.com
+ Email: chazeldred55@gmail.com
 
-🌐 Website: music-physicals-project GitHub Page
+ Website: music-physicals-project GitHub Page
 
-📱 Instagram, Facebook, X (icons included in footer)
+ Instagram, Facebook, X (icons included in footer)
 
 ## License
 
@@ -159,9 +189,17 @@ By Tarzhanova
 
 ## Bugs Fixed
 
-Fixed the shifting size of the carousel, ensure that the resolution size of each image used is the same. 
+Fixed the shifting size of the carousel, ensure that the resolution size of each image used is the same when using the picture/ saving the picture to the assets. 
+slide 1: <img width="975" height="605" alt="image" src="https://github.com/user-attachments/assets/a4f979ad-17c8-4057-a199-9112dd762e8b" />
+slide 2: <img width="947" height="568" alt="image" src="https://github.com/user-attachments/assets/7c60fe21-6d78-46e5-bf0e-fc20185035e3" />
+slide 3: <img width="942" height="567" alt="image" src="https://github.com/user-attachments/assets/09ba1cc2-c0ea-44b3-ac08-52938fd9aa57" />
 
 I have created a favicon.ico file in order to fix the text error when loading up the site, make sure the file is empty and to add a href = "favicon" in the html header.
+<img width="371" height="166" alt="image" src="https://github.com/user-attachments/assets/32d9584e-8514-4ab6-9b68-57544062d687" /> file looks like
+
+icons should show like this 
+<img width="152" height="60" alt="image" src="https://github.com/user-attachments/assets/69865f60-7297-43e4-8866-2e931a298f73" />
+
 
 "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" is the correct html to ensure that all
 
