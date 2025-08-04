@@ -97,10 +97,13 @@
 
 ## 5
 Tab meta of each page match their Navbar title:
+
 Product page tab:
 <img width="301" height="43" alt="image" src="https://github.com/user-attachments/assets/670dfee1-4ba1-4e91-8ec0-6b7343debee6" />
+
 Contact us tab :
 <img width="293" height="51" alt="image" src="https://github.com/user-attachments/assets/e5da3176-1095-4982-9baa-ed77c4c43673" />
+
 Home tab :
 <img width="322" height="37" alt="image" src="https://github.com/user-attachments/assets/cf0dbfd1-8f90-4eb8-8509-06767b607cc8" />
 
