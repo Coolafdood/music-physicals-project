@@ -7,10 +7,10 @@
 | [1](#1)      | **Homepage Loads** | Site loads fully with no errors (check browser console, network tab, images)    | No console errors, broken links, or 404s         | Y           |
 | [2](#2)     | **Navigation** | Test all navbar links (Home, Contact Us, Product Page, etc.)            | Each link redirects to correct page              | Y            |
 | [3](#3)      | **Mobile View**         | Navbar collapses into hamburger; menu expands and links work            | Layout is responsive and interactive        | Y
-[4](#4)   | **Content Layout**      | Review all content blocks: hero, cards, sections                         | Matches design specs, spacing consistent         |             |
- [5](#5]     | **Meta Tags**           | Inspect HTML head: `<title>`, `<meta name="description">`                 | Title/description show in browser and previews   |             |
+[4](#4)   | **Content Layout**      | Review all content blocks: hero, cards, sections                         | Matches design specs, spacing consistent         |  Y           |
+ [5](#5]     | **Meta Tags**           | Inspect HTML head: `<title>`, `<meta name="description">`                 | Title/description show in browser and previews   |     Y        |
        |             |
-[6](#6)    | **Forms / Buttons**     | Test interactivity: form validation, submit, button clicks                 | Actions work; error/success states appear        |             |
+[6](#6)    | **Forms / Buttons**     | Test interactivity: form validation, submit, button clicks                 | Actions work; error/success states appear        |        Y     |
 
 
 
