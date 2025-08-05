@@ -23,6 +23,12 @@
 ### loading index page without any error message
 <img width="940" height="464" alt="image" src="https://github.com/user-attachments/assets/d28d9ed0-7d15-4726-8498-1aea103ff143" />
 
+### checking through inspect mode 
+<img width="1878" height="792" alt="image" src="https://github.com/user-attachments/assets/74a70202-c30b-4879-b37b-0b780940dafe" />
+
+<img width="681" height="852" alt="image" src="https://github.com/user-attachments/assets/c70bf7af-a6c1-4576-bbc4-ad9a5e08156a" />
+### no error message
+
 ## 2
 
 ## Navigation
